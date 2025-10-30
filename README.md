@@ -19,6 +19,6 @@ Each exercise is simple, practical, and focused on one clear objective.
  
  🔁 **Loops** | Repetitive tasks using `for` and `while` loops. 
  
- 🧠 **Data manipulation ** | Working with lists, strings, and dictionaries for real-world data handling. 
+ 🧠 **Data manipulation** | Working with lists, strings, and dictionaries for real-world data handling. 
 
 
