@@ -21,4 +21,9 @@ Each exercise is simple, practical, and focused on one clear objective.
  
  🧠 **Data manipulation** | Working with lists, strings, and dictionaries for real-world data handling. 
 
+ ## 💬 Author
+
+Created by Ya Ha — student in Artificial Intelligence at ISMONTIC Tangier 🇲🇦
+
+
 
