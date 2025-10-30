@@ -9,6 +9,14 @@ Created as part of my learning journey at **ISMONTIC** 🇲🇦
 This repository is organized by categories of programming concepts — from basic input/output to working with data structures.  
 Each exercise is simple, practical, and focused on one clear objective.
 
+## 🧠 Learning Goals
+
+Understand basic programming logic and flow control
+
+Manipulate and analyze data effectively
+
+Build clean and well-structured code habits
+
 
 ## 📂 Folder Structure
 
@@ -19,7 +27,8 @@ Each exercise is simple, practical, and focused on one clear objective.
  
  🔁 **Loops** | Repetitive tasks using `for` and `while` loops. 
  
- 🧠 **Data manipulation** | Working with lists, strings, and dictionaries for real-world data handling. 
+ 💡 **Data manipulation** | Working with lists, strings, and dictionaries for real-world data handling. 
+ 
 
  ## 💬 Author
 
