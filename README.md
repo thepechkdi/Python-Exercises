@@ -13,9 +13,12 @@ Each exercise is simple, practical, and focused on one clear objective.
 ## 📂 Folder Structure
 
 
- 🧮 **Sequential Processing** | Basic input/output, arithmetic operations, and formula calculations. 
+ 🧮 **Sequential Processing** | Basic input/output, arithmetic operations, and formula calculations.
+ 
  🔀 **Conditional Processing** | Exercises using `if`, `elif`, and `else` to make decisions. 
+ 
  🔁 **Loops** | Repetitive tasks using `for` and `while` loops. 
+ 
  🧠 **Data manipulation ** | Working with lists, strings, and dictionaries for real-world data handling. 
 
 
