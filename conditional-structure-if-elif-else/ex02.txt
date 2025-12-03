@@ -1,0 +1,4 @@
+Exercise 2:
+
+Write a program that asks the user to enter their age and checks whether they are an adult (18 years or older).
+Display a message indicating whether the user has access to the service reserved for adults.

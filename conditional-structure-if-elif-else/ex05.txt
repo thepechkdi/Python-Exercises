@@ -1,0 +1,13 @@
+Exercise 5:
+
+Write a program that asks the user to enter a grade (0 to 20) and displays the corresponding evaluation:
+
+Less than 10 → Fail
+
+10 to 12 → Passable (Satisfactory)
+
+12 to 14 → Fairly Good
+
+14 to 16 → Good
+
+16 to 20 → Very Good

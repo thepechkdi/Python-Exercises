@@ -1,0 +1,6 @@
+Exercise 1 :
+
+Write a program that asks the user to enter an integer and checks whether the number is even or odd.
+Display a message indicating the result.
+
+A number is considered even if: number % 2 = 0

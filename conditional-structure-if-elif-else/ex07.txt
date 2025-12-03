@@ -1,0 +1,9 @@
+Exercise 7:
+
+Write a program that asks the user to enter their age and displays the price to pay to enter a museum:
+
+Under 12 years old → Free
+
+Between 12 and 17 years → 5 €
+
+18 years and older → 10 €

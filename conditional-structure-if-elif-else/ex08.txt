@@ -1,0 +1,9 @@
+Exercise 8:
+
+Write a program that asks the user to enter a purchase amount and applies a discount based on the following rules:
+
+Less than 50 € → No discount
+
+Between 50 € and 100 € → 10% discount (discount = amount × 0.10)
+
+More than 100 € → 20% discount

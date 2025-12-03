@@ -1,0 +1,9 @@
+Exercise 9:
+
+Write a program that asks the user to enter the weight of a parcel and calculates the shipping fee based on the following rules:
+
+Less than 1 kg → 5 €
+
+Between 1 kg and 5 kg → 10 €
+
+More than 5 kg → 20 €

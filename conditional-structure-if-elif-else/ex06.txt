@@ -1,0 +1,4 @@
+Exercise 6:
+
+Write a program that asks the user to enter two numbers and an operator (+, -, *, /).
+The program must display the result of applying the chosen operator to the two numbers.
