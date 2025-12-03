@@ -1,0 +1,7 @@
+Exercise 8 (Translated to English)
+
+Write a program that asks the user to enter the radius of a circle, calculates its area and perimeter, and then displays the results.
+
+Area (S): S=π*r*r
+
+Perimeter (P): P=2*π*r

@@ -1,0 +1,4 @@
+ Exercice 3 : 
+Écrivez un programme qui demande à l’utilisateur de saisir une température en degrés Celsius, la convertit en 
+Fahrenheit, et affiche le résultat. 
+La formule de conversion est : F = (Celsius × 9/5) + 32

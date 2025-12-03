@@ -1,0 +1,4 @@
+Exercise 4 :
+
+Write a program that asks the user to enter the radius of a circle, calculates its perimeter, and displays the result.
+The formula for the perimeter is: P=2*π*r

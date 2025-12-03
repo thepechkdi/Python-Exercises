@@ -1,0 +1,3 @@
+Exercise 6:
+
+Write a program that asks the user to enter a number of minutes, converts it into seconds, and displays the result.
