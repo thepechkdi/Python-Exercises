@@ -1,0 +1,12 @@
+Exercise 4:
+
+Write a program that asks the user to enter the name of an animal
+and displays its classification:
+
+"dog" or "cat" → Mammal
+
+"eagle" or "pigeon" → Bird
+
+"snake" or "crocodile" → Reptile
+
+If the animal is not recognized, display "Unknown classification".

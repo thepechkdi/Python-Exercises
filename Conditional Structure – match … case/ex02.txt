@@ -1,0 +1,4 @@
+Exercise 2:
+
+Create a program that asks the user to enter two numbers and an operation (+, -, *, /).
+Use match...case to perform the operation and display the result.

@@ -1,0 +1,4 @@
+Exercise 3:
+
+Ask the user to enter a temperature unit ("C" for Celsius, "F" for Fahrenheit, "K" for Kelvin) and a numeric value.
+Convert this temperature into another unit based on the user’s choice.
