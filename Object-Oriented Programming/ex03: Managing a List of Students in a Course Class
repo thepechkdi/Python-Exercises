@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------
+Objective
+
+The objective of this exercise is to develop a deeper understanding of Object-Oriented Programming (OOP) by:
+
+Using lists as class attributes
+Adding and managing elements dynamically within a class
+Creating methods that modify and display object data
+Modeling a real-world scenario (course enrollment) using classes and objects
+This exercise reinforces the concepts of classes, attributes, methods, and data structures in OOP.
+
+Instructions
+
+Create a class called Course with the attributes name and students (which is an empty list at the beginning).
+Add the following methods:
+add_student() that takes a student’s name and adds it to the list.
+display_students() that displays the list of enrolled students.
+Create an object of the Course class, add several students, then display the list of enrolled students.
+-------------------------------------------------------------------------------------------------------------
