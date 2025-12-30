@@ -1,0 +1,19 @@
+------------------------------------------------------------------------------------------------------------------------
+Objective
+
+The objective of this exercise is to strengthen understanding of Object-Oriented Programming (OOP) by:
+
+Creating a class that models a real-world object (a rectangle)
+Defining attributes and methods within a class
+Performing mathematical calculations using object methods
+Instantiating an object and accessing its behaviors
+This exercise reinforces the practical use of classes, methods, and objects in programming.
+
+Instructions
+
+Create a class called Rectangle.
+Add two methods using the attributes length and width:
+calculate_area() that returns the area of the rectangle (length × width).
+calculate_perimeter() that returns the perimeter of the rectangle ((length + width) × 2).
+Create an object of the Rectangle class with a length and a width of your choice, then display its area and perimeter.
+------------------------------------------------------------------------------------------------------------------------
