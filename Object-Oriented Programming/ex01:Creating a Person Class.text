@@ -1,0 +1,16 @@
+--------------------------------------------------------------------------------------------------------------
+Objective
+
+The objective of this exercise is to help learners understand the basics of Object-Oriented Programming (OOP) by:
+Defining a class with attributes and methods
+Creating objects from a class
+Using object methods to display information
+
+This exercise reinforces the concepts of class, object, attributes, and methods in a practical way.
+Instructions
+
+Create a class called Person with the attributes name, age, and city.
+Add a method introduce_yourself() that displays a presentation message in the following format:
+    Hello, my name is [name], I am [age] years old, and I live in [city].
+Create two objects (instances) of the Person class and call the introduce_yourself() method for each object.
+----------------------------------------------------------------------------------------------------------------
