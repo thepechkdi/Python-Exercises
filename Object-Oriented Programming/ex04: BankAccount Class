@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------------------------------------------------
+Objective
+
+The objective of this exercise is to help learners apply Object-Oriented Programming (OOP) concepts to a real-world scenario by:
+
+Creating a class with an initial state
+Modifying an object’s data using methods
+Understanding how object methods affect internal attributes
+Practicing class instantiation and method calls
+
+This exercise reinforces the concepts of encapsulation, attributes, methods, and object interaction in OOP.
+
+Instructions
+
+Create a class called BankAccount.
+Add the following methods with an attribute balance initialized to zero:
+deposit() which adds an amount to the balance.
+withdraw() which subtracts an amount from the balance.
+display_balance() which displays the current balance.
+Test the class by creating an account, depositing and withdrawing amounts, then displaying the final balance.
+--------------------------------------------------------------------------------------------------------------------------------
